@@ -1,0 +1,4 @@
+attempt,returncode,stdout
+1,7,WORKER: deliberate crash
+2,0,"WORKER: restarted successfully
+WORKER: healthy"

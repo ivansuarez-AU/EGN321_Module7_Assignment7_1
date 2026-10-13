@@ -1,0 +1,2 @@
+sample_number,timestamp,accepted_value,sensor_status,health_state,alert_state
+240,2026-10-13T18:07:58+00:00,23.151256586688877,OK,HEALTHY,NORMAL

@@ -1,0 +1,49 @@
+EGN 321 MODULE 7 ASSIGNMENT 7.1 — SUBMISSION MANIFEST
+
+REQUIRED EVIDENCE
+1. Dashboard running
+   required_evidence/dashboard_running.png
+   required_evidence/dashboard_running.json
+   required_evidence/dashboard_snapshot.html
+
+2. Current reading
+   required_evidence/current_reading.csv
+
+3. Historical view
+   required_evidence/historical_view.csv
+   required_evidence/historical_view.png
+
+4. Alert active
+   required_evidence/alert_active_rows.csv
+   required_evidence/alert_active.png
+
+5. Alert cleared
+   required_evidence/alert_cleared_row.csv
+   required_evidence/alert_cleared.png
+
+6. Missing/degraded condition
+   required_evidence/missing_or_degraded_condition.csv
+   required_evidence/missing_or_degraded.png
+
+7. Logs
+   required_evidence/application_logs.csv
+   required_evidence/application_logs.jsonl
+
+8. Restart/recovery
+   required_evidence/restart_recovery.csv
+   required_evidence/restart_recovery.png
+
+9. Final healthy state
+   required_evidence/final_healthy_state.json
+   required_evidence/final_healthy_state.png
+
+DELIVERABLES
+- Flask source: flask_project/
+- SQLite database: module7_monitor.db
+- Alert logic: flask_project/alert_logic.py
+- Logging config: flask_project/logging_config.py
+- Startup/restart config: flask_project/supervisor.py
+- Linux startup example: flask_project/module7-monitor.service.example
+- README: README.md
+- AI log: AI_LOG.md
+- GitHub checklist: GITHUB_SUBMISSION_CHECKLIST.md

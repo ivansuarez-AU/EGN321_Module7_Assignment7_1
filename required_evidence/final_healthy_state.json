@@ -1,0 +1,7 @@
+{
+  "sensor_final_health_state": "HEALTHY",
+  "sensor_final_alert_state": "NORMAL",
+  "restart_recovery_passed": true,
+  "database_history_rows_preserved": 240,
+  "final_system_healthy": true
+}
